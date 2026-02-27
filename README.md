@@ -105,4 +105,4 @@ Phase 2 — 🚧 In Progress
 
 ---
 
-*Architected and developed by [Your Name] · [LinkedIn](#) · [Portfolio](#)*
+*Architected and developed by [Tishanth Sivakumar] · [LinkedIn](https://www.linkedin.com/in/tishanth-t007/)*
